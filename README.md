@@ -9,7 +9,8 @@ I’ve been programming in **Java since 2022**, and I’m always exploring new t
 📫 **How to reach me:** [shubham.kashyap.jha07@gmail.com](mailto:shubham.kashyap.jha07@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShubhamKashyap45&icon=0&color=4)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=ShubhamKashyap45&color=red)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamkashyap45) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shubhamk3347) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubham.kashyap.jha07@gmail.com) 
